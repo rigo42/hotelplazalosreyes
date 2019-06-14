@@ -17,7 +17,7 @@ class viajerosControlador {
                 echo "<title >Viajeros | San blas</title>";
                 include('vista/menu/index.php');
 
-                include('vista/anuncioSaberMas/viajero-sanblas.php');
+                include('vista/anuncioSaberMas/viajeroSanBlas.php');
 
                 include('vista/footer/index.php');
                 include('vista/loader/index.php');

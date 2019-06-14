@@ -2,7 +2,7 @@
  
   <nav class="navbar navbar-expand-md navbar-dark bg-light">
     <div class="container">
-      <a class="navbar-brand" href="<?php echo URL ?>">Plaza los reyes 2</a>
+      <a class="navbar-brand" href="<?php echo URL ?>">Plaza los reyes</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
