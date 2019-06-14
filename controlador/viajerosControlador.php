@@ -2,8 +2,8 @@
 class viajerosControlador {
 
         public function responsabilidad() {
-                echo "<title >Viajeros | Responsabilidad</title>";
                 include('vista/head/index.php');
+                 echo "<title >Viajeros | Responsabilidad</title>";
                 include('vista/menu/index.php');
 
                 include('vista/anuncioSaberMas/viajeroResponsable.php');
@@ -13,8 +13,8 @@ class viajerosControlador {
 	}
 
         public function sanBlas() {
-                echo "<title >Viajeros | San blas</title>";
                 include('vista/head/index.php');
+                echo "<title >Viajeros | San blas</title>";
                 include('vista/menu/index.php');
 
                 include('vista/anuncioSaberMas/viajeroSanBlas.php');
@@ -24,8 +24,8 @@ class viajerosControlador {
         }
 
         public function mexcaltitan() {
-                echo "<title >Viajeros | Mexcaltitán</title>";
                 include('vista/head/index.php');
+                echo "<title >Viajeros | Mexcaltitán</title>";
                 include('vista/menu/index.php');
 
                 include('vista/anuncioSaberMas/viajeroMexcaltitan.php');

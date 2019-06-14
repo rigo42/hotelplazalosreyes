@@ -1,9 +1,10 @@
-<title>Inicio</title>
+
 <?php
 class inicioControlador {
 
         public function index() {
                 include('vista/head/index.php');
+                echo "<title>Inicio</title>";
                 include('vista/menu/index.php');
 
                 include('vista/anuncio/index.php');
