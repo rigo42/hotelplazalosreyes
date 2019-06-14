@@ -47,7 +47,7 @@
           <h1>HOTEL PLAZA LOS REYES</h1>
           <?php 
           $url = explode("/", $_SERVER["REQUEST_URI"]);
-          echo $longitud = sizeof($url)-1;
+          $longitud = sizeof($url)-1;
           $pagina = $url[$longitud];
 
           if($pagina == "nosotros")
