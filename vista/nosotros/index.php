@@ -79,7 +79,7 @@
 
           <p>3.- Todo desperfecto ocasionado a las propiedades del hotel será cargado a la cuenta del cliente que lo ocasione</p>
 
-          <p>4.- En caso de enfermedades, infecciosa, fallecimiento de algún huésped o de que se cometán algún delito, la administración dará aviso a las autoridades correspondientes.</p>
+          <p>4.- En caso de enfermedades, infecciosa, fallecimiento de algún huésped o de que se cometa algún delito, la administración dará aviso a las autoridades correspondientes.</p>
 
           <p>5.- El pago del hospedaje será por adelantado.</p>
 
