@@ -7,7 +7,7 @@
           <h4 class="sub-heading">Quédate con nuestras habitaciones</h4>
           <h2 class="heading">Nuestra historia</h2>
 
-          <p>En el pueblo de Santiago Ixcuintla, ubicado en zona céntrica, comprado en el año 2005.</p>
+          <p>En el pueblo de Santiago Ixcuintla, ubicado en zona céntrica, se abrió en el año 2005.</p>
           <p>Se remodelo en dos años después de su compra aproximadamente el 5 de mayo del 2007 exactamente el día del rompimiento.</p>
           <p>Se abrió solamente con 3 empleados, una recepcionista. una de limpieza y una de mantenimiento.</p>
           <p>Rodeado de importantes construcciones tales como presidencia municipal, La Catedral, Plaza central, Mercado céntrico.</p>
