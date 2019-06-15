@@ -2,8 +2,8 @@
   <div class="container">
     <div class="row justify-content-center align-items-center intro">
       <div class="col-md-9 text-center element-animate">
-        <h2>Relajate y disfruta tus vacasiones</h2>
-        <p class="lead mb-5">Te invitamos a ver nuestro hotel en este video!</p>
+        <h2>Relájate y disfruta tus vacaciones</h2>
+        <p class="lead mb-5">¡Te invitamos a ver nuestro hotel en este video!</p>
         <div class="btn-play-wrap"><a href="https://www.youtube.com/watch?v=fcK_ONhNtxY" class="btn-play popup-vimeo "><span class="ion-ios-play"></span></a></div>
       </div>
     </div>

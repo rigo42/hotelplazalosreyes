@@ -4,10 +4,10 @@ define('DS',DIRECTORY_SEPARATOR);
 define('ROOT',realpath(dirname(__FILE__)).DS);
 
 //localhost
-//define('URL',"http://localhost/hotelplazalosreyes/");
+define('URL',"http://localhost/hotelplazalosreyes/");
 
 //hostinger hotelplazalosreyes.com
-define('URL',"http://hotelplazalosreyes.com/");
+//define('URL',"http://hotelplazalosreyes.com/");
 
 //Ejecutar funcion automatizada
 require_once('ajuste/autoload.php');

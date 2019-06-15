@@ -46,7 +46,7 @@
             <h3 class="mt-0"><a href="#">Master</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 4 Personas</li>
-              <li><span class="ion-ios-crop"></span> 22 ft <sup>2</sup></li>
+              <li><span class="ion-ios-crop"></span> 20 ft <sup>2</sup></li>
               <li><span class="icon ion-logo-usd"></span> $600 MXN</li>
             </ul>
             <p>Cuenta con dos camas matrimoniales. </p>
@@ -72,7 +72,7 @@
             <h3 class="mt-0"><a href="#">Junior</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 3 Personas</li>
-              <li><span class="ion-ios-crop"></span> 22 ft <sup>2</sup></li>
+              <li><span class="ion-ios-crop"></span> 15 ft <sup>2</sup></li>
               <li><span class="icon ion-logo-usd"></span> $550 MXN</li>
             </ul>
             <p>Cuenta con una cama king size. </p>
@@ -99,7 +99,7 @@
             <h3 class="mt-0"><a href="#">Tripe</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 3 Personas</li>
-              <li><span class="ion-ios-crop"></span> 22 ft <sup>2</sup></li>
+              <li><span class="ion-ios-crop"></span> 15 ft <sup>2</sup></li>
               <li><span class="icon ion-logo-usd"></span> $500 MXN</li>
             </ul>
             <p>Cuenta con cama matrimonial e individual. </p>
@@ -126,7 +126,7 @@
             <h3 class="mt-0"><a href="#">Doble</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 2 Personas</li>
-              <li><span class="ion-ios-crop"></span> 22 ft <sup>2</sup></li>
+              <li><span class="ion-ios-crop"></span> 15 ft <sup>2</sup></li>
               <li><span class="icon ion-logo-usd"></span> $450 MXN</li>
             </ul>
             <p>Cuenta con dos camas individuales. </p>
@@ -151,7 +151,7 @@
             <h3 class="mt-0"><a href="#">Sencilla</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 2 Personas</li>
-              <li><span class="ion-ios-crop"></span> 22 ft <sup>2</sup> </li>
+              <li><span class="ion-ios-crop"></span> 15 ft <sup>2</sup> </li>
               <li><span class="icon ion-logo-usd"></span> $450 MXN</li>
             </ul>
             <p>Cuenta con una cama matrimonial. </p>

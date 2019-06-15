@@ -15,21 +15,21 @@
       <img class="d-block w-100" src="<?php echo URL ?>libreria/images/santiagoIxcuintla1.png" alt="First slide" >
       <div class="carousel-caption d-none d-md-block">
         <h5 style="color: #fff;">SANTIAGO IXCUINTLA NAYARIT</h5>
-        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de santiago</p>
+        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de Santiago</p>
       </div>
     </div>
      <div class="carousel-item ">
       <img class="d-block w-100" src="<?php echo URL ?>libreria/images/santiagoIxcuintla2.png" alt="First slide" >
       <div class="carousel-caption d-none d-md-block">
        <h5 style="color: #fff;">SANTIAGO IXCUINTLA NAYARIT</h5>
-        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de santiago</p>
+        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de Santiago</p>
       </div>
     </div>
     <div class="carousel-item ">
       <img class="d-block w-100" src="<?php echo URL ?>libreria/images/santiagoIxcuintla3.png" alt="First slide" >
       <div class="carousel-caption d-none d-md-block">
         <h5 style="color: #fff;">CONOCE</h5>
-        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de santiago</p>
+        <p style="color: #fff;">Te invitamos a conocer un poco de nuestra cultura de Santiago</p>
       </div>
     </div>
     <div class="carousel-item ">

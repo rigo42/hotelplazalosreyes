@@ -24,7 +24,7 @@ El filtro integrado 3 Care ayuda a mantener el aire fresco y el interior de la u
           <div class="body-text">
             <div class="category">Wifi</div>
             <h3 class="mb-3"><a href="#">Internet al alcance de tu dispositivo</a></h3>
-            <p class="mb-4">Para que siempre estes conectado en tus redes sociales, o una manera de entrenterte. o asutos laborales.</p>
+            <p class="mb-4">Para que siempre estés conectado en tus redes sociales, o una manera de entrenterte. o asutos laborales.</p>
           </div>
         </div>
       </div>

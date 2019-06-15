@@ -2,12 +2,12 @@
   <div class="container">
     <div class="row mb-5">
       <div class="col-md-4">
-        <h3>Telefono</h3>
-        <p>Llamanos para reservar</p>
+        <h3>Teléfono</h3>
+        <p>Llámanos para reservar</p>
         <p class="lead"><a href="tel://">(+52) 323 235 42 57 </a></p>
       </div>
       <div class="col-md-4">
-        <h3>Direccion</h3>
+        <h3>Dirección</h3>
         <p>Santiago Ixcuintla Nayarit</p>
         <p>Calle: 20 de noviembre</p>
         <p>Col. Centro</p>
@@ -15,7 +15,7 @@
       </div>
       <div class="col-md-4">
         <h3>Reservaciones</h3>
-        <p>Esta pagina web solo es informativa, tendra que llamar al numero proporcionado para poder realizar una reservación.</p>
+        <p>Esta página web solo es informativa, tendrá que llamar al número proporcionado para poder realizar una reservación.</p>
       </div>
     </div>
     <div class="row justify-content-center">

@@ -4,15 +4,14 @@
 
       <div class="col-md-4">
         <div class="heading-wrap  element-animate">
-          <h4 class="sub-heading">Quedates con nuestras habitaciones :)</h4>
+          <h4 class="sub-heading">Quédate con nuestras habitaciones</h4>
           <h2 class="heading">Nuestra historia</h2>
 
-          <p>En el pueblo de Santiago Ixcuintla, ubicado en zona centrica, comprado en el año 2005.</p>
-          <p>Se remodelo en dos años despues de su compra aproximadamente el 5 de mayo del 2007 exactamente el dia del rompimiento.</p>
-          <p>Se habrio solamente con 3 empleados, una recepcionista. una de limpieza y una de mantenimiento.</p>
-          <p>Rodeado de importantes construcciones tales como precidencia municipal, La Catedral, Plaza central, Mercado centrico.</p>
-          <p>El concepto de nuestro Hotel es de carácter Temático ya que cuenta con 29 habitaciones.</p>
-          <p>Jefe: Ricardo Renteria</p>
+          <p>En el pueblo de Santiago Ixcuintla, ubicado en zona céntrica, comprado en el año 2005.</p>
+          <p>Se remodelo en dos años después de su compra aproximadamente el 5 de mayo del 2007 exactamente el día del rompimiento.</p>
+          <p>Se abrió solamente con 3 empleados, una recepcionista. una de limpieza y una de mantenimiento.</p>
+          <p>Rodeado de importantes construcciones tales como presidencia municipal, La Catedral, Plaza central, Mercado céntrico.</p>
+          <p>El concepto de nuestro Hotel es de carácter temático ya que cuenta con 29 habitaciones.</p>
 
         </div>
       </div>
@@ -30,7 +29,7 @@
      <div class="col-md-4">
         <div class="heading-wrap  element-animate">
          
-          <h2 class="heading">Mision</h2>
+          <h2 class="heading">Misión</h2>
           <p class="">Ofrecer una estancia con excelencia y un trato personalizado siempre pensando en la satisfacción del huésped Garantizando comodidad, confort y descanso en su alojamiento.</p>
         </div>
       </div>
@@ -55,7 +54,7 @@
 
           <p>3.- Contribuir con el desarrollo Turístico de la zona Norte del Estado de Nayarit.</p>
 
-          <p>4.- Diversificar nuestro portafolio de negocio y ofrecer mas servicios a nuestros huéspedes.</p>
+          <p>4.- Diversificar nuestro portafolio de negocio y ofrecer más servicios a nuestros huéspedes.</p>
 
         </div>
       </div>
@@ -74,22 +73,22 @@
         <div class="heading-wrap  element-animate">
          
           <h2 class="heading">Reglamento</h2>
-          <p class="">1.- Para su comodidad y protección, deposite sus objetos de valor en recepción. El hotel no se hace responsable por ningun objeto perdido.</p>
+          <p class="">1.- Para su comodidad y protección, deposite sus objetos de valor en recepción. El hotel no se hace responsable por ningún objeto perdido.</p>
 
-          <p>2.- La renta de hospedaje expira a las 12:00 hra. Toda la habitación ocupada después de esta hora será cargada como un dia más de hospedaje.</p>
+          <p>2.- La renta de hospedaje expira a las 12:00 hra. Toda la habitación ocupada después de esta hora será cargada como un día más de hospedaje.</p>
 
           <p>3.- Todo desperfecto ocasionado a las propiedades del hotel será cargado a la cuenta del cliente que lo ocasione</p>
 
-          <p>4.- En caso de enfermedades, infecciosa, fallecimiento de algun huésped o de que se comenta algun delito, la administración dará aviso a las autoridades correspondientes.</p>
+          <p>4.- En caso de enfermedades, infecciosa, fallecimiento de algún huésped o de que se comenta algun delito, la administración dará aviso a las autoridades correspondientes.</p>
 
           <p>5.- El pago del hospedaje será por adelantado.</p>
 
-          <p>6.- Queda estrictamente prohibido que: Menores transiten por el hotel si no van acompañados por persona adulta | Dar alojamiento a otra persona sin previa autorización de la administración | Introducir cualquier clace de animales sin previo aviso a la administración | Usas corriente electrica del establecimiento para otro usos no sean el alumbrado de la habitación. | Ocupar la habitación padeciendo cualquier enfermedad infecciosa.</p>
+          <p>6.- Queda estrictamente prohibido que: Menores transiten por el hotel si no van acompañados por persona adulta | Dar alojamiento a otra persona sin previa autorización de la administración | Introducir cualquier clase de animales sin previo aviso a la administración | Usas corriente eléctrica del establecimiento para otro usos no sean el alumbrado de la habitación. | Ocupar la habitación padeciendo cualquier enfermedad infecciosa.</p>
 
           <p>7.- Favor de no sacar la habitación como son (toallas, sabanas, fundas, etc.).</p>
           <p>8.- Este establecimiento cuenta con un seguro de responsabilidad civil como establece la NOM-07.TUR.2002</p>
 
-          <p>9.- Por escándalo o violación de cualquier de las clausulas de este reglamento, con auxilio de las autoridades correspondientes, se exigiré la inmediata desocupación de las habitaciones, en cuyo caso no se hará devolución alguna de la cantidad pagada por concepto de alojamiento.</p>
+          <p>9.- Por escándalo o violación de cualquier de las cláusulas de este reglamento, con auxilio de las autoridades correspondientes, se exigiré la inmediata desocupación de las habitaciones, en cuyo caso no se hará devolución alguna de la cantidad pagada por concepto de alojamiento.</p>
         </div>
       </div>
 
