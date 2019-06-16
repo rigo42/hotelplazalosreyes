@@ -81,11 +81,11 @@
 
           <p>4.- En caso de enfermedades, infecciosa, fallecimiento de algún huésped o de que se cometa algún delito, la administración dará aviso a las autoridades correspondientes.</p>
 
-          <p>5.- El pago del hospedaje será por adelantado.</p>
+          <p>5.- El pago del hospedaje será por adelantado.</p> 
 
           <p>6.- Queda estrictamente prohibido que: Menores transiten por el hotel si no van acompañados por persona adulta | Dar alojamiento a otra persona sin previa autorización de la administración | Introducir cualquier clase de animales sin previo aviso a la administración | Usas corriente eléctrica del establecimiento para otro usos no sean el alumbrado de la habitación. | Ocupar la habitación padeciendo cualquier enfermedad infecciosa.</p>
 
-          <p>7.- Favor de no sacar la habitación como son (toallas, sabanas, fundas, etc.).</p>
+          <p>7.- Favor de no sacar de la habitación como son (toallas, sabanas, fundas, etc.).</p>
           <p>8.- Este establecimiento cuenta con un seguro de responsabilidad civil como establece la NOM-07.TUR.2002</p>
 
           <p>9.- Por escándalo o violación de cualquier de las cláusulas de este reglamento, con auxilio de las autoridades correspondientes, se exigiré la inmediata desocupación de las habitaciones, en cuyo caso no se hará devolución alguna de la cantidad pagada por concepto de alojamiento.</p>
