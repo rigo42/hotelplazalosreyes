@@ -291,7 +291,7 @@ header .navbar.navbar-light .nav-link.active {
 }
 
 .room-thumbnail-absolute .room.bg:last-child {
-  margin-bottom: 0;
+  margin-bottom: 100%;
 }
 
 .room-thumbnail-absolute .room .pricing-from {

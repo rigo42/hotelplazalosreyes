@@ -22,6 +22,6 @@
     <link rel="stylesheet" href="<?php echo URL ?>libreria/fonts/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" href="<?php echo URL ?>libreria/fonts/fontawesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo URL ?>libreria/css/magnific-popup.css">
-    <link rel="stylesheet" href="<?php echo URL ?>libreria/css/hotelPlazaLosReyess.css">
+    <link rel="stylesheet" href="<?php echo URL ?>libreria/css/hotel.css">
     <!-- /Theme Style -->
 </head>
