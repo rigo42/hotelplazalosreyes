@@ -96,7 +96,7 @@
             </div>
           </figure>
           <div class="media-body">
-            <h3 class="mt-0"><a href="#">Tripe</a></h3>
+            <h3 class="mt-0"><a href="#">Triple</a></h3>
             <ul class="room-specs">
               <li><span class="ion-ios-people-outline"></span> 3 Personas</li>
               <li><span class="ion-ios-crop"></span> 15 ft <sup>2</sup></li>

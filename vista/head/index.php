@@ -8,7 +8,7 @@
     <meta property="og:type" content="hotel" />
     <meta property="og:url" content="<?php echo URL ?>" />
     <meta property="og:image" content="<?php echo URL ?>libreria/images/logo.jpg" />
-    <meta property="og:site_name" content="Hotel plaza los reyes" /> 
+    <meta property="og:site_name" content="Hotel Plaza Los Reyes en Nayarit, Santiago Ixcuintla" /> 
     <meta property="clocale" content="es_MX"/>
     <meta property="clang" content="es"/>
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
