@@ -7,7 +7,7 @@
           <a href="<?php echo URL ?>viajeros/sanBlas">
             <img src="<?php echo URL ?>libreria/images/anuncioSanblasPrincipalMin.jpg" alt="Image placeholder" class="mr-4">
             <div class="text">
-              <h4>San Blas</h4>
+              <h4>Playa San Blas</h4>
               <div class="post-meta">
                 <span class="mr-2">Fecha: <script>document.write(new Date().getFullYear());</script></span> &bullet;
               </div>
@@ -26,7 +26,18 @@
           </a>
         </li>
         <li>
-          <a href="<?php echo URL ?>viajeros">
+          <a href="<?php echo URL ?>viajeros/corchos">
+            <img src="<?php echo URL ?>libreria/images/anuncioCorchosPrincipal.jpg" alt="Image placeholder" class="mr-4">
+            <div class="text">
+              <h4>Playa los corchos</h4>
+              <div class="post-meta">
+                <span class="mr-2">Fecha: <script>document.write(new Date().getFullYear());</script></span> &bullet;
+              </div>
+            </div>
+          </a>
+        </li>
+        <li>
+          <a href="<?php echo URL ?>viajeros/responsabilidad">
             <img src="<?php echo URL ?>libreria/images/anuncioViajes2Principal.jpg" alt="Image placeholder" class="mr-4">
             <div class="text">
               <h4>Como ser un buen viajero</h4>

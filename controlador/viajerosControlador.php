@@ -34,5 +34,16 @@ class viajerosControlador {
                 include('vista/loader/index.php');
         }
 
+        public function corchos() {
+                include('vista/head/index.php');
+                echo "<title >Viajeros | Playa los corchos</title>";
+                include('vista/menu/index.php');
+
+                include('vista/anuncioSaberMas/viajeroCorchos.php');
+
+                include('vista/footer/index.php');
+                include('vista/loader/index.php');
+        }
+
 }
 ?>

@@ -24,4 +24,3 @@
     <link rel="stylesheet" href="<?php echo URL ?>libreria/css/magnific-popup.css">
     <link rel="stylesheet" href="<?php echo URL ?>libreria/css/hotel.css">
     <!-- /Theme Style -->
-</head>

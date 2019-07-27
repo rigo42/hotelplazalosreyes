@@ -4,7 +4,7 @@ class inicioControlador {
 
         public function index() {
                 include('vista/head/index.php');
-                echo "<title>Inicio</title>";
+                echo "<title>HOTEL PLAZA LOS REYES | SANTIAGO IXCUINTLA NAYARIT.</title>";
                 include('vista/menu/index.php');
 
                 include('vista/anuncio/index.php');

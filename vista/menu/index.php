@@ -1,3 +1,4 @@
+</head>
 <header role="banner">
  
   <nav class="navbar navbar-expand-md navbar-dark bg-light">
@@ -24,10 +25,13 @@
           </li>
         -->
           <li class="nav-item">
-            <a class="nav-link" id="habitacion" href="habitaciones">Ver todas las habitaciones</a>
+            <a class="nav-link" id="habitacion" href="<?php echo URL ?>habitaciones">Ver todas las habitaciones</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" id="acercaDeNosotros" href="nosotros">Acérca de nosotros</a>
+            <a class="nav-link" id="acercaDeNosotros" href="<?php echo URL ?>nosotros">Acérca de nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="acercaDeNosotros" href="<?php echo URL ?>viajeros/responsabilidad">Lugares a visitar</a>
           </li>
 
         </ul>
@@ -54,12 +58,16 @@
             $subTitulo = "Solo basta una llamada para reservar"; 
           elseif($pagina == "habitaciones")
             $subTitulo = "Descubre cual es nuestra habitación #1"; 
+          elseif($pagina == "responsabilidad")
+            $subTitulo = "Cómo ser un viajero responsable";
           elseif($pagina == "viajeros")
             $subTitulo = "Responsabilidad en tu viaje";
           elseif($pagina == "sanBlas")
-            $subTitulo = "San blas"; 
+            $subTitulo = "Playa de san blas"; 
           elseif($pagina == "mexcaltitan")
             $subTitulo = "Mexcaltitan";
+          elseif($pagina == "corchos")
+            $subTitulo = "Playa los corchos";
           else
             $subTitulo = "Descubre cual es nuestra habitación #1";
           ?>
