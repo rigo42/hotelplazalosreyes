@@ -1,19 +1,45 @@
 <?php
-//Enrutadores
-define('DS',DIRECTORY_SEPARATOR);
-define('ROOT',realpath(dirname(__FILE__)).DS);
 
-//localhost
-//define('URL',"http://localhost/hotelplazalosreyes/");
+// Valid PHP Version?
+$minPHPVersion = '7.2';
+if (phpversion() < $minPHPVersion)
+{
+	die("Your PHP version must be {$minPHPVersion} or higher to run CodeIgniter. Current version: " . phpversion());
+}
+unset($minPHPVersion);
 
-//hostinger hotelplazalosreyes.com
-define('URL',"http://hotelplazalosreyes.com/");
+// Path to the front controller (this file)
+define('FCPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
-//Ejecutar funcion automatizada
-require_once('ajuste/autoload.php');
-require_once('ajuste/enrutador.php');
-require_once('ajuste/request.php');
+// Location of the Paths config file.
+// This is the line that might need to be changed, depending on your folder structure.
+$pathsPath = FCPATH . './app/Config/Paths.php';
+// ^^^ Change this if you move your application folder
 
-autoload::run();
-enrutador::run(new request());
-?> 
+/*
+ *---------------------------------------------------------------
+ * BOOTSTRAP THE APPLICATION
+ *---------------------------------------------------------------
+ * This process sets up the path constants, loads and registers
+ * our autoloader, along with Composer's, loads our constants
+ * and fires up an environment-specific bootstrapping.
+ */
+
+// Ensure the current directory is pointing to the front controller's directory
+chdir(__DIR__);
+
+// Load our paths config file
+require $pathsPath;
+$paths = new Config\Paths();
+
+// Location of the framework bootstrap file.
+$app = require rtrim($paths->systemDirectory, '/ ') . '/bootstrap.php';
+
+/*
+ *---------------------------------------------------------------
+ * LAUNCH THE APPLICATION
+ *---------------------------------------------------------------
+ * Now that everything is setup, it's time to actually fire
+ * up the engines and make this app do its thang.
+ */
+$app->run();
