@@ -1,10 +1,10 @@
 <?php namespace App\Controllers;
-
+/*
 use \App\Models\AdminHabitacionMasPedidaModelo;
 use \App\Models\AdminServicioModelo;
-
+*/
 class Inicio extends BaseController{
-
+/*
 	private $adminHabitacionMasPedidaModelo;
 	private $adminServicioModelo;
 
@@ -12,9 +12,9 @@ class Inicio extends BaseController{
 		$this->adminHabitacionMasPedidaModelo = new AdminHabitacionMasPedidaModelo();
 		$this->adminServicioModelo = new AdminServicioModelo();
 	}
-
+*/
 	public function index(){
-		$resHabitacionMasPedida = $this->adminHabitacionMasPedidaModelo->mostrar();
+		/*$resHabitacionMasPedida = $this->adminHabitacionMasPedidaModelo->mostrar();
 		$resServicio = $this->adminServicioModelo->mostrar();
 
 		$data = [
@@ -22,6 +22,8 @@ class Inicio extends BaseController{
 			'resServicio' => $resServicio
 		];
 		return view('cliente/inicio/index', $data);
+		*/
+		return "OLA";
 	}
 
 }
